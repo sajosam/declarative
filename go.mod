@@ -1,4 +1,4 @@
-module github.com/sajosam/declarative.git
+module github.com/sajosam/declarative
 
 go 1.23.3
 
