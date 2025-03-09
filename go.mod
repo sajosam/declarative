@@ -1,4 +1,4 @@
-module github.com/declarative/routes.com
+module github.com/sajosam/declarative.git
 
 go 1.23.3
 
